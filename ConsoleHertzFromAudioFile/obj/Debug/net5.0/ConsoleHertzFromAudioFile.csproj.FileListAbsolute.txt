@@ -1,0 +1,5 @@
+C:\Users\merto\Source\Repos\WahFreq\ConsoleHertzFromAudioFile\obj\Debug\net5.0\ConsoleHertzFromAudioFile.csproj.AssemblyReference.cache
+C:\Users\merto\Source\Repos\WahFreq\ConsoleHertzFromAudioFile\obj\Debug\net5.0\ConsoleHertzFromAudioFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merto\Source\Repos\WahFreq\ConsoleHertzFromAudioFile\obj\Debug\net5.0\ConsoleHertzFromAudioFile.AssemblyInfoInputs.cache
+C:\Users\merto\Source\Repos\WahFreq\ConsoleHertzFromAudioFile\obj\Debug\net5.0\ConsoleHertzFromAudioFile.AssemblyInfo.cs
+C:\Users\merto\Source\Repos\WahFreq\ConsoleHertzFromAudioFile\obj\Debug\net5.0\ConsoleHertzFromAudioFile.csproj.CoreCompileInputs.cache
