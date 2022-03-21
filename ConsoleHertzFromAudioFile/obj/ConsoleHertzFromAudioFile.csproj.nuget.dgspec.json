@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj": {}
+    "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj": {
+    "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
+        "projectUniqueName": "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
         "projectName": "ConsoleHertzFromAudioFile",
-        "projectPath": "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
+        "projectPath": "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
         "packagesPath": "C:\\Users\\merto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\obj\\",
+        "outputPath": "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

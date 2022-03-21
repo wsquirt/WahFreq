@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwFoqhBdF2TZrDhJQD8LcsfTBAcEcarp/u+YQT2U3GD4z2rFeRMAFcA68x1WdUT5rk3j3p5WtK5RgcRlwGb/6g==",
+  "dgSpecHash": "wlZdgn+k1Ur4d6/4Ponp+qZXzNoJDHUnz7BO6VhkB0Uq/4gmXQVUyDk8K1jLu7jVU9m15qIlU4x7XiWQaAA70w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merto\\Source\\Repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
+  "projectFilePath": "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
