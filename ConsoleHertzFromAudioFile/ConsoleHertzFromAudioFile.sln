@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleHertzFromAudioFile", "ConsoleHertzFromAudioFile.csproj", "{C424487C-6E15-4130-BE71-43B3983CF33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C424487C-6E15-4130-BE71-43B3983CF33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C424487C-6E15-4130-BE71-43B3983CF33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C424487C-6E15-4130-BE71-43B3983CF33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C424487C-6E15-4130-BE71-43B3983CF33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56ED8EC6-E3AE-4131-9F96-A30393BF2B0F}
+	EndGlobalSection
+EndGlobal
