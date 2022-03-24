@@ -23,19 +23,22 @@ All of this is not to discourage you from doing this project, I am just trying t
 
 ---------- ---------- ---------- ---------- ---------- ----------
 
-https://en.wikipedia.org/wiki/Fourier_transform
+https://www.unilim.fr/pages_perso/jean.debord/math/fourier/fft.htm
 
 ---------- ---------- ---------- ---------- ---------- ----------
 
-https://en.wikipedia.org/wiki/Pulse-code_modulation
+REQUEST : I'm trying to create a program which gets the various "notes" in a sound file (WAV or MP3) and can get the frequency and amplitude of each. I've been searching around for this, and of course there is the problem of distinguishing individual "notes" in a music file which isn't a MIDI, but it seems that something along these lines can be done with NAudio or DirectSound. Any ideas?
+
+ANSWERS :
+	- What you are asking to do is extremely difficult.
+	Step one would be to convert your audio from a time domain to a frequency domain. That is, you take a number of samples, and do a Fourier transform (implemented in your software as FFT).
+	Next, you begin deciding what you call a note or not. This is as not as simple as picking out the loudest of the frequencies! Different instruments have different timbre, which is created by various harmonics. If you had a song of nothing but sine waves, this would be much simpler. However, you'll find that you'll start seeing notes where your ear tells you they don't exist.
+	Now, psychoacoustics come into play. It is entirely possible for humans to "hear" notes that do not even have a fundamental. This is particularly true in a musical context. If I were to take a trombone and start playing a scale downward, at some point, the fundamental disappears or is mostly gone. However, you will still perceive that scale as going downward, when in fact the fundamental sound has all-but disappeared. Things get really tricky at this point.
+	To answer your question, start with an FFT. Maybe this is sufficient for your needs. If not, begin reading the significant amount of technical literature on the subject.
 
 ---------- ---------- ---------- ---------- ---------- ----------
 
-https://www.wikihow.com/Calculate-Frequency
-
----------- ---------- ---------- ---------- ---------- ----------
-
-https://mathematica.stackexchange.com/questions/105410/how-to-get-the-frequency-information-of-an-mp3-audio
+http://blog.bjornroche.com/2012/07/frequency-detection-using-fft-aka-pitch.html
 
 ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 

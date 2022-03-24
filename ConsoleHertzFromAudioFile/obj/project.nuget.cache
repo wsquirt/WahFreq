@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wlZdgn+k1Ur4d6/4Ponp+qZXzNoJDHUnz7BO6VhkB0Uq/4gmXQVUyDk8K1jLu7jVU9m15qIlU4x7XiWQaAA70w==",
+  "dgSpecHash": "f1YsPb+x6l/xVT/yz7G4yjMEJSQIfcogCLvOw93pfuZWn1zIOtp6RiyQlh2Bak5UyBIGSd6sfRNniapHNl/zUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\merto\\source\\repos\\WahFreq\\ConsoleHertzFromAudioFile\\ConsoleHertzFromAudioFile.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\merto\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\merto\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\merto\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

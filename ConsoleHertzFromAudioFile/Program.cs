@@ -7,6 +7,8 @@ namespace ConsoleHertzFromAudioFile
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            AudioFileHelper.Open();
         }
     }
 }
